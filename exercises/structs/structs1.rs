@@ -11,7 +11,7 @@ struct ColorClassicStruct {
     // TODO: Something goes here
     pub green:i32,
     pub red:i32,
-    pub  blue:i32,
+    pub  blue:i32, 
 
 }
 
